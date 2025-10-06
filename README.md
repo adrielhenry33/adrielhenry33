@@ -24,7 +24,7 @@ Desde que comecei a estudar em áreas de tecnlogias, sempre fui apaixonado pro p
 <p>
 <img align="left" alt="GitHub stats" height="200px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=adrielhenry33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<br>
+
 
 <img align="left" alt="GitHub stats" height="200px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielhenry33&theme=tokyonight&layout=compact&custom_title=Tecnlogias&langs_count=9" />
 
